@@ -1,0 +1,64 @@
+:root {
+  --primary-one: #679090;
+}
+
+/*Navbar*/
+.navbar {
+  background-color: #254447;
+}
+
+.navbar-nav > li > a.active,
+.navbar-nav > li > a.active:focus {
+  border-top: 0.1875rem solid var(--primary-one);
+}
+
+.logo {
+  width: 3rem;
+}
+
+nav a.nav-link {
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.login {
+  letter-spacing: 0.6px;
+}
+
+/* Description */
+
+.description {
+  background-color: #679090;
+}
+
+.tracer-study {
+  background-color: #254447 !important;
+}
+
+/* KepalaSekolah */
+
+.headschool {
+  background-color: #254447;
+}
+
+.custom-caption {
+  text-align: justify;
+}
+
+/* News */
+
+.news {
+  background-color: #679090;
+}
+
+/* Footer */
+
+.footer {
+  background-color: #ffffff;
+}
+
+.copyright {
+  background-color: #254447;
+}
